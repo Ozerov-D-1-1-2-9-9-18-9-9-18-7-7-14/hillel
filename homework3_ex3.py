@@ -9,4 +9,4 @@ if age <= 0:
 else:
     print('Name:', name)
     print('Age:', age)
-print(hello)
+
