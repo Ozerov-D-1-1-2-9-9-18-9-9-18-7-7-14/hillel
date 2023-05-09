@@ -12,3 +12,4 @@ buf = b % 10
 c = num1 // 100
 sum_num1 = a + buf + c
 print(f'The sum of the numbers is: {sum_num1}')
+
