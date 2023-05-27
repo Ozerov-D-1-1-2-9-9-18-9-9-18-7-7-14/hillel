@@ -16,3 +16,4 @@ for item in data:
         result[item_name] = item_amount
 
 print(result)
+

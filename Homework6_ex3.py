@@ -9,3 +9,4 @@ for key, value in origin_list:
         result[key] = [value]
 
 print(result)
+
