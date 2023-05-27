@@ -24,4 +24,3 @@ for num in nums:
         pairs.append((num, complement))
 
 print(pairs)
-
