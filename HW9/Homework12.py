@@ -7,5 +7,5 @@ def difference(*args: [int, float]) -> [int, float]:
         return max_element - min_element
 
 
-print(difference(1, 2, 3))
+print(difference(1, 2, 3, 4))
 
