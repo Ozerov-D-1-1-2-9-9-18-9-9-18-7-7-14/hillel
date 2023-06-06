@@ -9,3 +9,4 @@ for symbol in word:
         result[symbol] = 1
 
 print(result)
+
