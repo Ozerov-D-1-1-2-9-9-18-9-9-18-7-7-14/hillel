@@ -8,3 +8,4 @@ def difference(*args: [int, float]) -> [int, float]:
 
 
 print(difference(1, 2, 3))
+

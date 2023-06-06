@@ -7,3 +7,4 @@ def popular_words(text, array_of_words: [str, list]) -> dict:
 
 
 print(popular_words('''When I wAs One I had just begun When I was Two I was nearly new ''', ['i', 'was', 'three', 'near']))
+

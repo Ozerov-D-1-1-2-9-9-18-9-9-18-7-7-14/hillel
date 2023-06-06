@@ -7,3 +7,4 @@ def fact(x: int) -> int:
 
 
 print(fact(5))
+
