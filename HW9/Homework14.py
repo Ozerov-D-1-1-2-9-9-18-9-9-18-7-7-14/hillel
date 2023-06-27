@@ -6,4 +6,4 @@ def fact(x: int) -> int:
     return result_fact
 
 
-print(fact(5))
+print(fact(6))
